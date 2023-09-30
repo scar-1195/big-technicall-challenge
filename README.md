@@ -1,7 +1,12 @@
 
 <h1 align="center">BigSmart Frontend Technicall Challenge</h1>
 
-![bigsmartlogo](https://dsof32ggjkwpf.cloudfront.net/wp-content/uploads/2021/02/10170144/big-move-smart-blue.png)
+<p align="center">
+  <img 
+    src="https://dsof32ggjkwpf.cloudfront.net/wp-content/uploads/2021/02/10170144/big-move-smart-blue.png"
+    alt="bigsmartlogo"
+  />
+</p>
 
 # Description
 
